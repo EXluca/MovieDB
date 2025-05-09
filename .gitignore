@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Build Ergebnisse
+*.dll
+*.exe
+
+# Sonstiges
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
