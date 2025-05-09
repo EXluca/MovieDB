@@ -1,0 +1,146 @@
+[
+  {
+    "Titel": "JoJo\u0027s Bizarre Adventure",
+    "Jahr": "2012",
+    "Regisseur": "Unbekannt",
+    "Autor": "Unbekannt",
+    "Genres": "Action, Adventure, Animation",
+    "RottenTomatoesBewertung": "0"
+  },
+  {
+    "Titel": "Serial Experiments Lain",
+    "Jahr": "1998",
+    "Regisseur": "Unbekannt",
+    "Autor": "Yasuyuki Ueda",
+    "Genres": "Drama, Horror, Animation",
+    "RottenTomatoesBewertung": "0"
+  },
+  {
+    "Titel": "Ikiru",
+    "Jahr": "1952",
+    "Regisseur": "Akira Kurosawa",
+    "Autor": "Akira Kurosawa",
+    "Genres": "Drama",
+    "RottenTomatoesBewertung": "98"
+  },
+  {
+    "Titel": "Parasite",
+    "Jahr": "2019",
+    "Regisseur": "Bong Joon Ho",
+    "Autor": "Bong Joon Ho",
+    "Genres": "Drama, Thriller",
+    "RottenTomatoesBewertung": "99"
+  },
+  {
+    "Titel": "Fight Club",
+    "Jahr": "1999",
+    "Regisseur": "David Fincher",
+    "Autor": "Chuck Palahniuk",
+    "Genres": "Crime, Drama, Thriller",
+    "RottenTomatoesBewertung": "81"
+  },
+  {
+    "Titel": "Blade Runner 2049",
+    "Jahr": "2017",
+    "Regisseur": "Denis Villeneuve",
+    "Autor": "Hampton Fancher",
+    "Genres": "Drama, Action, Mystery",
+    "RottenTomatoesBewertung": "88"
+  },
+  {
+    "Titel": "No Country for Old Men",
+    "Jahr": "2007",
+    "Regisseur": "Ethan Coen",
+    "Autor": "Joel Coen",
+    "Genres": "Crime, Drama, Thriller",
+    "RottenTomatoesBewertung": "93"
+  },
+  {
+    "Titel": "Porco Rosso",
+    "Jahr": "1992",
+    "Regisseur": "Hayao Miyazaki",
+    "Autor": "Hayao Miyazaki",
+    "Genres": "Adventure, Animation, Comedy",
+    "RottenTomatoesBewertung": "96"
+  },
+  {
+    "Titel": "The Wind Rises",
+    "Jahr": "2013",
+    "Regisseur": "Hayao Miyazaki",
+    "Autor": "Hayao Miyazaki",
+    "Genres": "Drama, Biography, Animation",
+    "RottenTomatoesBewertung": "88"
+  },
+  {
+    "Titel": "The Big Lebowski",
+    "Jahr": "1998",
+    "Regisseur": "Joel Coen",
+    "Autor": "Ethan Coen",
+    "Genres": "Crime, Comedy",
+    "RottenTomatoesBewertung": "80"
+  },
+  {
+    "Titel": "Akira",
+    "Jahr": "1988",
+    "Regisseur": "Katsuhiro \u00D4tomo",
+    "Autor": "Katsuhiro \u00D4tomo",
+    "Genres": "Drama, Fantasy, Animation",
+    "RottenTomatoesBewertung": "91"
+  },
+  {
+    "Titel": "Goodfellas",
+    "Jahr": "1990",
+    "Regisseur": "Martin Scorsese",
+    "Autor": "Nicholas Pileggi",
+    "Genres": "Crime, Drama, Biography",
+    "RottenTomatoesBewertung": "94"
+  },
+  {
+    "Titel": "Oldboy",
+    "Jahr": "2003",
+    "Regisseur": "Park Chan-wook",
+    "Autor": "Garon Tsuchiya",
+    "Genres": "Drama, Action, Mystery",
+    "RottenTomatoesBewertung": "82"
+  },
+  {
+    "Titel": "The Truman Show",
+    "Jahr": "1998",
+    "Regisseur": "Peter Weir",
+    "Autor": "Andrew Niccol",
+    "Genres": "Drama, Comedy",
+    "RottenTomatoesBewertung": "94"
+  },
+  {
+    "Titel": "Django Unchained",
+    "Jahr": "2012",
+    "Regisseur": "Quentin Tarantino",
+    "Autor": "Quentin Tarantino",
+    "Genres": "Drama, Comedy, Western",
+    "RottenTomatoesBewertung": "87"
+  },
+  {
+    "Titel": "2001: A Space Odyssey",
+    "Jahr": "1968",
+    "Regisseur": "Stanley Kubrick",
+    "Autor": "Stanley Kubrick",
+    "Genres": "Adventure, Sci-Fi",
+    "RottenTomatoesBewertung": "90"
+  },
+  {
+    "Titel": "Jojo Rabbit",
+    "Jahr": "2019",
+    "Regisseur": "Taika Waititi",
+    "Autor": "Christine Leunens",
+    "Genres": "Drama, War, Comedy",
+    "RottenTomatoesBewertung": "80"
+  },
+  {
+    "Titel": "Ichi the Killer",
+    "Jahr": "2001",
+    "Regisseur": "Takashi Miike",
+    "Autor": "Sakichi Sato",
+    "Genres": "Crime, Drama, Action",
+    "RottenTomatoesBewertung": "63"
+  }
+]
