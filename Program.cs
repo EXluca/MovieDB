@@ -16,15 +16,15 @@ namespace testluca
             string connectionString = @"Server=(localdb)\MSSQLLocalDB;Integrated Security=true;";
             string useDBQuery = "USE Test10;";
 
-            //keybd_event(0x7A, 0, 0x0000, 0);
-            //Thread.Sleep(50);
-            //keybd_event(0x7A, 0, 0x0002, 0);
-            //Thread.Sleep(50);
-            //keybd_event(0x11, 0, 0x0000, 0);
-            //Thread.Sleep(50);
-            //mouse_event(0x0800, 0, 0, 780, 0);
-            //Thread.Sleep(50);
-            //keybd_event(0x11, 0, 0x0002, 0);
+            keybd_event(0x7A, 0, 0x0000, 0);
+            Thread.Sleep(50);
+            keybd_event(0x7A, 0, 0x0002, 0);
+            Thread.Sleep(50);
+            keybd_event(0x11, 0, 0x0000, 0);
+            Thread.Sleep(50);
+            mouse_event(0x0800, 0, 0, 780, 0);
+            Thread.Sleep(50);
+            keybd_event(0x11, 0, 0x0002, 0);
 
             var filmManager = new FilmManager();
             var movieApi = new MovieApi();

@@ -62,7 +62,6 @@ namespace testluca
             }
         }
 
-
         private static async Task ExportToJsonAsync(SqlDataReader reader, string fileName)
         {
             var movies = new List<object>();
@@ -84,7 +83,6 @@ namespace testluca
             await File.WriteAllTextAsync(fileName, json);
             Console.WriteLine($"Filme erfolgreich nach {fileName} exportiert.");
         }
-
 
         private static async Task ExportToCsvAsync(SqlDataReader reader, string fileName)
         {
